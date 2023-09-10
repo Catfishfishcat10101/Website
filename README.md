@@ -1,2 +1,2 @@
 # Website
-A simple 4 page website for my Resume.
+A simple 4 page website implementing functionality
